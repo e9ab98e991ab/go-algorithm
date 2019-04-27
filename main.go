@@ -2,16 +2,16 @@ package main
 
 import (
 	"fmt"
-	"github.com/go-algorithm/bubblesort"
-	"github.com/go-algorithm/quicksort"
-	"github.com/go-algorithm/selectsort"
-	"github.com/go-algorithm/insertsort"
-	"github.com/go-algorithm/shellsort"
-	"github.com/go-algorithm/radixsort"
-	"github.com/go-algorithm/heapsort"
-	"github.com/go-algorithm/bucketsort"
-	"github.com/go-algorithm/countsort"
-	"github.com/go-algorithm/mergesort"
+	"github.com/e9ab98e991ab/go-algorithm/bubblesort"
+	"github.com/e9ab98e991ab/go-algorithm/quicksort"
+	"github.com/e9ab98e991ab/go-algorithm/selectsort"
+	"github.com/e9ab98e991ab/go-algorithm/insertsort"
+	"github.com/e9ab98e991ab/go-algorithm/shellsort"
+	"github.com/e9ab98e991ab/go-algorithm/radixsort"
+	"github.com/e9ab98e991ab/go-algorithm/heapsort"
+	"github.com/e9ab98e991ab/go-algorithm/bucketsort"
+	"github.com/e9ab98e991ab/go-algorithm/countsort"
+	"github.com/e9ab98e991ab/go-algorithm/mergesort"
 )
 
 var  data = []int{8, 3, 6, 9, 11, 2, 7, 23, 65, 13, 9}
